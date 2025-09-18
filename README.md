@@ -118,6 +118,7 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
+
 <img width="446" height="365" alt="484058247-d5e5f34f-5470-472a-9b99-0d4a5b8ccaf3" src="https://github.com/user-attachments/assets/febd597b-ab34-4dbe-beb8-c56b55736561" />
 
 
